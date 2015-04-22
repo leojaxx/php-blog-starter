@@ -20,7 +20,7 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-
+  <div id-"wrapper">
     <!-- Top Navbar -->
     <div class="blog-masthead">
       <div class="container">
@@ -76,6 +76,8 @@
         </div> <!-- end blog-sidebar -->
       </div> <!-- end row -->
     </div> <!-- end container -->
+    <div id="push"></div>
+    </div> <!-- end wrapper -->
     <footer class="blog-footer">
       <p>Original Twitter Bootstrap Template can be found here -> <a href="http://getbootstrap.com/examples/blog/">http://getbootstrap.com/examples/blog/</a></p>
     </footer>
